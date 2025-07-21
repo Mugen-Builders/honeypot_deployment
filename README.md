@@ -30,7 +30,8 @@ CD into the `honeypot/contrib/compose` folder, then clone this repository using 
 
 ```shell
 cd honeypot/contrib/compose
-git clone https://github.com/cartesi/honeypot
+git clone https://github.com/Mugen-Builders/honeypot_deployment
+cd honeypot_deployment
 ```
 
 ### 2. Install the Fly.io CLI

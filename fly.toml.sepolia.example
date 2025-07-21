@@ -1,7 +1,7 @@
 app = "<Application_name>"
 
 [build]
-  dockerfile = "./Dockerfile"
+  dockerfile = "../Dockerfile"
   [build.args]
     HONEYPOT_SNAPSHOT = "0xdbe72e1624cfed0e83469f1f5104709ecfc0d4ff6edaa7745d5912b2e184b278"
     HONEYPOT_VERSION = "2.0.0"
